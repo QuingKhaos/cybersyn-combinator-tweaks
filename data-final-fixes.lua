@@ -1,2 +1,2 @@
 -- Better subgroup placement with SchallCircuitGroup
-require("data-updates.schall-circuit-group")
+require("data-final-fixes.schall-circuit-group")
